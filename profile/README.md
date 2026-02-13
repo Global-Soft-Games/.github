@@ -1,7 +1,7 @@
 # 歡迎來到 Global Soft Games! 👋
 
 <p align="center">
-  <i>By Gamers, For Gamers. 我們致力於打造終極的行動遊戲體驗！</i>
+  <i>By Gamers, For Gamers. 我們致力於打造<b><font color="#FF6600">終極的行動遊戲體驗</font></b>！</i>
 </p>
 
 我們是 Global Soft Games，一個專注於為全球玩家創造互動式行動遊戲的獨立遊戲開發工作室。
